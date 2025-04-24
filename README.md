@@ -1,0 +1,2 @@
+# statics
+my  first statics
